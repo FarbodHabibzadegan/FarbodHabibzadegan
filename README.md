@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FarbodHabibzadegan
 - 👀 I’m interested in new technology
 - 👤 I’m a professional Telegram bot Developer
-- 🌱 I’m currently learning Js
+- 🌱 I’m currently learning Python
 - 📫 You can Email me . My email address: farbodhabibzadegan.developer@gmail.com
 - ⚡ Fun fact: I'm batman 🤣
 
